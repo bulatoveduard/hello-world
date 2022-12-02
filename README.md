@@ -1,5 +1,3 @@
-# hello-world
-Мой первый репозиторий на GitHub
+Игра крестики нолики.
 
-
-i love :coffee: :pizza:, and :dancer:.
+Булатов Э.Р Pdev-18
